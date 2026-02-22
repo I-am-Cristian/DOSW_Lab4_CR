@@ -11,7 +11,7 @@ El sistema de Bankify debe tener la capacidad de:
 1. Autenticar usuarios (clientes, asesores, supervisores y gerente financiero) mediante usuario y contraseña.
 2. Gestionar cuentas bancarias: crear, activar, inactivar y actualizar, validando las reglas de negocio definidas.
 3. Gestionar la información de los clientes: crear, activar, inactivar y actualizar, según el rol autorizado.
-4. Realizar depósitos de dinero a cuentas bancarias activas, por parte del cliente propietario u otros usuarios.
+4. Realizar depósitos de dinero a cuentas bancarias activas, por parte del cliente propietario u otros usuarios. [Mockup](https://sting-chart-71507952.figma.site/)
 5. Consultar el saldo disponible de una cuenta bancaria por parte del cliente.
 6. Generar el reporte tributario de declaración de renta individual del cliente en formato PDF.
 7. Generar y enviar el reporte tributario de todas las cuentas a la DIAN en formato JSON, por parte del gerente financiero.
